@@ -1,0 +1,2 @@
+# EMERIST
+Emerist - emergency assistant application that uses cameras around the house to track people’s behavior at all time. Only in emergency situations the application will save the recording, and upload to the cloud. Authentication to Emerist application is done by face recognition system (we assume it is preinstalled). Emerist application can control lights and security of the house. Application is available via smartphones, tablet and computer. *Uploaded data is secured and only available to people with access permissions.
